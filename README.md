@@ -1,3 +1,4 @@
+![Adsız tasarım (3)](https://github.com/Bhryee/faidai/assets/122686947/7b00e536-bdda-40fb-b8ff-958ab306d5a7)
 
 # <h1 align="center">FAIDAI - SOLUTION CHALLENGE 2024</h1>
 
