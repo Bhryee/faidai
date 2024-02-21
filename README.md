@@ -23,5 +23,6 @@ https://youtu.be/8G1zxhAt4vY?si=9lJKar1kczoK18sm
 ## 🩹Our Team
 - [Bahriye İŞGÖR](https://github.com/Bhryee)
 - [Osman Kağan KURNAZ](https://github.com/osmankagankurnaz)
-- [Mustafa ÇAKIR](https://github.com/cakirmustafa35)
 - [Rümeysa YURTSEVER](https://github.com/rumeysayrtsvr)
+- [Mustafa ÇAKIR](https://github.com/cakirmustafa35)
+
