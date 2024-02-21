@@ -1,16 +1,26 @@
-# first_app
+![1](https://github.com/Bhryee/faidai/assets/122686947/bcbc1f88-705b-40cd-a2b3-9d5067e04ba7)
 
-A new Flutter project.
 
-## Getting Started
+ # <h1 align="center">FAIDAI - SOLUTION CHALLENGE 2024</h1>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ ##  Introduction
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ##  Mobile App YouTube Link
+https://youtu.be/8G1zxhAt4vY?si=9lJKar1kczoK18sm
+ 
+ ##  Mobile App Photos
+
+
+
+
+ ##  About Technology and Goals
+![Flutter (1)](https://github.com/Bhryee/faidai/assets/122686947/8c9df790-4f0c-4118-b67c-8f9e0f754c8b)
+
+
+ ##  Our Team
+ - [Bahriye İŞGÖR](https://github.com/Bhryee)
+ - [Osman Kağan KURNAZ](https://github.com/osmankagankurnaz)
+ - [Rümeysa YURTSEVER](https://github.com/rumeysayrtsvr)
+ - [Mustafa ÇAKIR](https://github.com/cakirmustafa35)
