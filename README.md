@@ -10,7 +10,7 @@ Permanent injuries caused by misconceptions about first aid practices worldwide 
  
 
  ## 🩹 Mobile App YouTube Link
-https://youtu.be/8G1zxhAt4vY?si=9lJKar1kczoK18sm
+https://www.youtube.com/watch?v=eBxN4BdE_-0
  
  ## 🩹 Mobile App Photos
 <pre>
