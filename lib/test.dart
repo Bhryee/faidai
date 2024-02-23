@@ -32,7 +32,7 @@ class _MyQuizPageState extends State<MyQuizPage> {
 
   List<Question> questions = [
     Question(
-      'What are the general characteristics of 1st degree burns?',
+      '1. What are the general characteristics of 1st degree burns?',
       [
         'a) Blisters filled with water are formed  ',
         'b) Painful and usually heals within 48 hours  ',
