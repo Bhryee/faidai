@@ -7,10 +7,11 @@
  ## 🩹 Introduction
 Permanent injuries caused by misconceptions about first aid practices worldwide are increasing every year. When faced with emergencies, the application of wrong treatment methods due to the effect of the misconceptions among the public can cause more damage. We have developed a mobile application that provides easy accessibility and effective intervention in a short time in order to spread correct first aid awareness in the society and to reach first aid quickly in emergencies.
 
- 
+
 
  ## 🩹 Mobile App YouTube Link
-https://www.youtube.com/watch?v=eBxN4BdE_-0
+ <a href="https://www.youtube.com/watch?v=eBxN4BdE_-0"> <img src="https://github.com/Bhryee/faidai/assets/122686947/e7b5722a-82ef-42be-beab-7e4f966a5749" alt="FAIDAI" style="width: 900px;"> </a>
+
  
  ## 🩹 Mobile App Photos
 <pre>
