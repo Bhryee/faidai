@@ -10,7 +10,7 @@ Permanent injuries caused by misconceptions about first aid practices worldwide 
 
 
  ## 🩹 Mobile App YouTube Link
- <a href="https://www.youtube.com/watch?v=eBxN4BdE_-0"> <img src="https://github.com/Bhryee/faidai/assets/122686947/e7b5722a-82ef-42be-beab-7e4f966a5749" alt="FAIDAI" style="width: 900px;"> </a>
+ <a href="https://youtu.be/e0WWnpVgHcE"> <img src="https://github.com/Bhryee/faidai/assets/122686947/e7b5722a-82ef-42be-beab-7e4f966a5749" alt="FAIDAI" style="width: 900px;"> </a>
 
  
  ## 🩹 Mobile App Photos
